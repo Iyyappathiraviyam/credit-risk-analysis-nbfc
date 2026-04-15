@@ -92,5 +92,5 @@ Data Analyst with experience in NBFC domain, specializing in:
 - Fraud Detection
 
 📫 Connect with me:
-- LinkedIn: <your link>
-- GitHub: <your link>
+- LinkedIn: https://www.linkedin.com/in/iyyappathiraviyam-1470b52aa/
+- GitHub: https://github.com/Iyyappathiraviyam
